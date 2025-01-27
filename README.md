@@ -38,7 +38,8 @@ Projeto feito durantes as aulas de Lógica de programação e Javascript da ONE 
 <!-- - Pessoas Contribuidoras; -->
 <!-- - Pessoas Desenvolvedoras do Projeto; -->
 #pessoas-desenvolvedoras
-[<img loading="lazy" src="https://avatars.githubusercontent.com/u/196110576?u=e8dee4c9f71e97e036aa818a116904115363ddea&v=4" width=115><br><sub>Alexander Martins</sub>](https://github.com/Alexander-Martins)
+---
+| [<img loading="lazy" src="https://avatars.githubusercontent.com/u/196110576?u=e8dee4c9f71e97e036aa818a116904115363ddea&v=4" width=115><br><sub>Alexander Martins</sub>](https://github.com/Alexander-Martins) |
 
 <!-- - Licença. -->
 <!-- - Conclusão. -->
